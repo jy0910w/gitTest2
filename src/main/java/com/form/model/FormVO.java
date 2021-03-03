@@ -15,7 +15,7 @@ public class FormVO implements java.io.Serializable {
 	private String form_solution;
 	private Integer admin_id;
 	private Integer parking_lot_id;
-	
+	private int pp;
 	
 	@Override
 	public String toString() {
